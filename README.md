@@ -30,7 +30,8 @@ My day to day work revolves around building React applications and deploying the
 * TypeScript (coming soon)-->
 
 <!-- Footer -->
-<p align="left"><img src="https://github.com/shahid-sgt/shahid-sgt/workflows/README build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/shahid-sgt/shahid-sgt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/shahid-sgt/shahid-sgt?style=flat-square&labelColor=343b41"/></p>
+<p align="left"><img alt="Stars" src="https://img.shields.io/github/stars/shahid-sgt/shahid-sgt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/shahid-sgt/shahid-sgt?style=flat-square&labelColor=343b41"/></p>
+
 ## tasks
 
 - [x] Born
