@@ -2,7 +2,7 @@
 $ echo "Hello World!" > README.md
 ```
 <h1>Hi There, I am <a  href="https://github.com/shahid-sgt">Shahid Hussain</a> <img  src="https://github.com/shahid-sgt/shahid-sgt/raw/main/Hi.gif" width="30px"></h1>
-"The greatest glory in living lies not in never falling, but in rising every time we fall."
+"The greatest glory in living lies not in never falling, but in rising every time we fall."<br>
 <!--<img  src="https://visitor-badge.glitch.me/badge?page_id=shahid-sgt.shahid-sgt" alt="Ships landed"> -->
 <a href="mailto:labreizk3@gmail.com"><img  src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"> </a> <a href="https://facebook.com/xDexTr9x"><img  src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"></a> 
 
