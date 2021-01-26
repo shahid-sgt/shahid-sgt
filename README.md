@@ -1,4 +1,7 @@
-<h1>Hi There, I am <a  href="https://github.com/shahid-sgt">Shahid Hussain</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+```shell
+$ echo "Hello World!" > README.md
+```
+<h1>Hi There, I am <a  href="https://github.com/shahid-sgt">Shahid Hussain</a> <img  src="https://github.com/shahid-sgt/shahid-sgt/raw/main/Hi.gif" width="30px"></h1>
 <!--<img  src="https://visitor-badge.glitch.me/badge?page_id=shahid-sgt.shahid-sgt" alt="Ships landed"> -->
 <a href="mailto:labreizk3@gmail.com"><img  src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"> </a> <a href="https://facebook.com/xDexTr9x"><img  src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"></a> 
 
@@ -22,16 +25,6 @@ My day to day work revolves around building React applications and deploying the
 
 <img src="https://img.shields.io/badge/CSharp-lightgrey" alt="C Sharp" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/TypeScript-red" alt="TypeScript" />
 
-
-
-<!-- * C#
-* Python 3
-* JavaScript (ES6)
-* TypeScript (coming soon)-->
-
-<!-- Footer -->
-<p align="left"><img alt="Stars" src="https://img.shields.io/github/stars/shahid-sgt/shahid-sgt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/shahid-sgt/shahid-sgt?style=flat-square&labelColor=343b41"/></p>
-
 ## tasks
 
 - [x] Born
@@ -39,6 +32,17 @@ My day to day work revolves around building React applications and deploying the
 - [ ] Married
 - [ ] Have children
 - [ ] Die
+<!--
+![shahid's github stats](https://github-readme-stats.vercel.app/api?username=shahid-sgt&show_icons=true&icon_color=141414&bg_color=ffffff&hide_border=true&line_height=25&text_color=141414&hide_title=true&count_private=true)
+-->
+
+<!-- Footer -->
+## stats
+<p align="left"><img alt="Stars" src="https://img.shields.io/github/stars/shahid-sgt/shahid-sgt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/shahid-sgt/shahid-sgt?style=flat-square&labelColor=343b41"/></p>
+
+
+<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/shahid-sgt/shahid-sgt/issues/new/choose"><strong> create an issue</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
+
 <!--
 **shahid-sgt/shahid-sgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
