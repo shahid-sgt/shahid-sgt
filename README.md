@@ -2,6 +2,7 @@
 $ echo "Hello World!" > README.md
 ```
 <h1>Hi There, I am <a  href="https://github.com/shahid-sgt">Shahid Hussain</a> <img  src="https://github.com/shahid-sgt/shahid-sgt/raw/main/Hi.gif" width="30px"></h1>
+"The greatest glory in living lies not in never falling, but in rising every time we fall."
 <!--<img  src="https://visitor-badge.glitch.me/badge?page_id=shahid-sgt.shahid-sgt" alt="Ships landed"> -->
 <a href="mailto:labreizk3@gmail.com"><img  src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"> </a> <a href="https://facebook.com/xDexTr9x"><img  src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"></a> 
 
@@ -40,8 +41,9 @@ My day to day work revolves around building React applications and deploying the
 ## stats
 <p align="left"><img alt="Stars" src="https://img.shields.io/github/stars/shahid-sgt/shahid-sgt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/shahid-sgt/shahid-sgt?style=flat-square&labelColor=343b41"/></p>
 
+ 
 
-<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/shahid-sgt/shahid-sgt/issues/new/choose"><strong> create an issue</strong></a>, I'll be happy to exchnage our views on dinosaurs or life or anything you fancy about ;)</b> </em>
+<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="https://github.com/shahid-sgt/shahid-sgt/issues/new/choose"><strong> create an issue</strong></a>, I'll be happy to exchnage our views on stars, space, galaxies or life or anything you fancy about ;)</b> </em>
 
 <!--
 **shahid-sgt/shahid-sgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
