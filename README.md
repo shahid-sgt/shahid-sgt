@@ -6,7 +6,7 @@ My day to day work revolves around building React applications and deploying the
 # Skills
 ## Programming Languages:
 
-<img src="https://img.shields.io/badge/CSharp-lightgrey" alt="CSharp" /><img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/TypeScript-red" alt="TypeScript" />
+<img src="https://img.shields.io/badge/CSharp-lightgrey" alt="C Sharp" /><img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/TypeScript-red" alt="TypeScript" />
 
 <!-- * C#
 * Python 3
