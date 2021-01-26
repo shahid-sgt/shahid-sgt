@@ -22,11 +22,22 @@ My day to day work revolves around building React applications and deploying the
 
 <img src="https://img.shields.io/badge/CSharp-lightgrey" alt="C Sharp" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/TypeScript-red" alt="TypeScript" />
 
+
+
 <!-- * C#
 * Python 3
 * JavaScript (ES6)
 * TypeScript (coming soon)-->
 
+<!-- Footer -->
+<p align="left"><img src="https://github.com/shahid-sgt/shahid-sgt/workflows/README build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/shahid-sgt/shahid-sgt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/shahid-sgt/shahid-sgt?style=flat-square&labelColor=343b41"/></p>
+## tasks
+
+- [x] Born
+- [ ] Got a job
+- [ ] Married
+- [ ] Have children
+- [ ] Die
 <!--
 **shahid-sgt/shahid-sgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
